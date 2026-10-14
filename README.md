@@ -15,4 +15,4 @@ I don't stop at "it works" — I want to understand why it works and how it coul
 - **Sunkhani Pahuna Ghar Resort**: bilingual React + Firebase booking website
 
 ### Connect
-[LinkedIn](www.linkedin.com/in/irajkharel)
+[LinkedIn](https://www.linkedin.com/in/irajkharel)
