@@ -12,7 +12,7 @@ I don't stop at "it works" — I want to understand why it works and how it coul
 
 ### Projects
 - **SheaMart**: secure retail order management system (capstone)
-- **Sunkhani Pahuna Ghar Resort**: bilingual React + Firebase booking website
+- **Sunkhani Pahuna Ghar Resort**: bilingual booking website, React frontend + NestJS/MongoDB backend ([frontend](https://github.com/Sunkhani-Pahuna-Ghar/Sunkhani-Resort-Front) · [backend](https://github.com/Sunkhani-Pahuna-Ghar/Sunkhani-Resort))
 
 ### Connect
 [LinkedIn](https://www.linkedin.com/in/irajkharel)
